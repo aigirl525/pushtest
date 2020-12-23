@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:xiaomi-umengaccs:1.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc7e203a80d047369d16e3f784a56eb2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc7e203a80d047369d16e3f784a56eb2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/xiaomi-umengaccs/1.1.4/7d674f0f2993f9510fa8be1fa4dc253f9f81e449/xiaomi-umengaccs-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/xiaomi-umengaccs/1.1.4/7d674f0f2993f9510fa8be1fa4dc253f9f81e449/xiaomi-umengaccs-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

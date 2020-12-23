@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:xiaomi-push:3.7.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/xiaomi-push/3.7.0/639ce54aedc1c60d7345f32e3057794eea78d029/xiaomi-push-3.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/xiaomi-push/3.7.0/7d674f0f2993f9510fa8be1fa4dc253f9f81e449/xiaomi-push-3.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/xiaomi-push/3.7.0/7d674f0f2993f9510fa8be1fa4dc253f9f81e449/xiaomi-push-3.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

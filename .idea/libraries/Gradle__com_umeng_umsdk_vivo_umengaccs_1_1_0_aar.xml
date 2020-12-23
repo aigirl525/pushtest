@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:vivo-umengaccs:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0113246efc60dae513f6d244f05a2eb5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0113246efc60dae513f6d244f05a2eb5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/vivo-umengaccs/1.1.0/49eef4e36c16f3cbf72a5752f23cc8ede7042e93/vivo-umengaccs-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/vivo-umengaccs/1.1.0/98ec2c05f7156c586ad10afb86b8c961579de8b1/vivo-umengaccs-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

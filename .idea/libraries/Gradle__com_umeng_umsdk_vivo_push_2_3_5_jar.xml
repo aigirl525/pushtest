@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:vivo-push:2.3.5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/vivo-push/2.3.5/c7b1785ab69ebfc61b1ee502d19c39456293d1e3/vivo-push-2.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/vivo-push/2.3.5/49eef4e36c16f3cbf72a5752f23cc8ede7042e93/vivo-push-2.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/vivo-push/2.3.5/bd521b17d4f8a2056ac63a4c6f4a5d3b19af4d8f/vivo-push-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:oppo-umengaccs:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7b7eb3290d43f61d58f98b6d58019790/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7b7eb3290d43f61d58f98b6d58019790/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oppo-umengaccs/1.0.6/49eef4e36c16f3cbf72a5752f23cc8ede7042e93/oppo-umengaccs-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oppo-umengaccs/1.0.6/d6ad4aa5637245d0be45c8de5434731e0724d3f9/oppo-umengaccs-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

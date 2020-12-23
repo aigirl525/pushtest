@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:oppo-push:2.0.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oppo-push/2.0.2/b3356c0f744be81112e2c537b0ce6c16e1d1c88d/oppo-push-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oppo-push/2.0.2/49eef4e36c16f3cbf72a5752f23cc8ede7042e93/oppo-push-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oppo-push/2.0.2/d69e4ecb104c8cd67539c6a9b1eec50c7084919e/oppo-push-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
