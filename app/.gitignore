@@ -6,6 +6,8 @@
 *.DS_Store
 #Gradle files
 build/
+debug/
+release/
 .gradle/
 */build/
 
@@ -33,6 +35,7 @@ local.properties
 proguard/
 
 # Intellij project files
+app/*.iml
 *.iml
 *.ipr
 *.iws
