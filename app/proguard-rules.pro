@@ -65,4 +65,29 @@
  -keep class com.hianalytics.android.**{*;}
  -keep class com.huawei.updatesdk.**{*;}
  -keep class com.huawei.hms.**{*;}
+#oppo混淆配置
+-keep public class * extends android.app.Service
 
+#vivo混淆配置
+-dontwarn com.vivo.push.**
+-keep class com.vivo.push.**{*; }
+-keep class com.vivo.vms.**{*; }
+-keep class xxx.xxx.xxx.PushMessageReceiverImpl{*;}
+
+-keep class com.uc.** {*;}
+#
+#-keep class com.zui.** {*;}
+#-keep class com.miui.** {*;}
+#-keep class com.heytap.** {*;}
+#-keep class a.** {*;}
+#-keep class com.vivo.** {*;}
+#-keepclassmembers class * {
+#   public <init>(org.json.JSONObject);
+#}
+#-keep public class com.umeng.message.demo.R$*{
+#public static final int *;
+#}
+#-keepclassmembers enum * {
+#    public static **[] values();
+#    public static ** valueOf(java.lang.String);
+#}
